@@ -39,6 +39,8 @@ verdade, com sombra, e o asfalto molhado reflete tudo, traçado raio por raio.
 
 ## <img src="img/legacy_engine.png" width="34" align="top"> Legacy Engine
 
+<p align="center"><a href="https://legacyengine.com.br/#legacy-engine"><img src="img/reveal.jpg" width="100%" alt="Assista ao reveal do Legacy Engine"></a></p>
+
 **Luz de verdade. Medida.** O motor por trás da Times Square: C++ e Vulkan com ray tracing em todo pixel. Cada
 sistema de luz é comparado automaticamente com uma simulação física de referência (path tracing); se desviar, o
 teste falha.
