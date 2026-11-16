@@ -25,9 +25,9 @@ verdade, com sombra, e o asfalto molhado reflete tudo, traçado raio por raio.
 | | |
 |:---:|:---:|
 | <img src="img/ts_loja.jpg" alt="Loja com interior em 3D"> | <img src="img/ts_lanchonete.jpg" alt="Lanchonete"> |
-| **Lojas com interior em 3D** | **Lanchonetes, joalherias, lojas de roupa** |
-| <img src="img/ts_joalheria.jpg" alt="Joalheria"> | <img src="img/ts_mobiliario.jpg" alt="Ruas laterais"> |
-| **Vitrines de vidro de verdade** | **Ruas laterais vivas** |
+| **Lanchonete por dentro** | **Loja de roupas por dentro** |
+| <img src="img/ts_joalheria.jpg" alt="Joalheria"> | <img src="img/ts_mobiliario.jpg" alt="Chão molhado refletindo os telões"> |
+| **Vitrines de vidro de verdade** | **O asfalto vira espelho na chuva** |
 
 - **130 telões** e **60 letreiros de neon** acesos
 - **914 postes**, cada um uma luz com sombra
@@ -60,14 +60,14 @@ teste falha.
 |:---:|:---:|
 | <img src="img/eng_luzes.jpg" alt="Mil luzes com sombra"> | <img src="img/eng_geometria.jpg" alt="Geometria densa"> |
 | **Mil luzes, todas com sombra.** Todo objeto que emite luz ilumina a cena de verdade, sem pré-cálculo. | **Geometria densa.** Milhões de triângulos por quadro, com nível de detalhe automático. |
-| <img src="img/eng_editor.jpg" alt="Editor visual"> | <img src="img/eng_cabelo.jpg" alt="Cabelo fio a fio"> |
-| **Editor visual.** Monte cenas, scripts e materiais sem sair do motor. | **Cabelo fio a fio, pele e tecido** com física. |
+| <img src="img/eng_editor.jpg" alt="Editor visual"> | <img src="img/eng_mundo.jpg" alt="Oceano e céu físicos"> |
+| **Editor visual.** Monte cenas, scripts e materiais sem sair do motor. | **Oceano, nuvens e céu físicos**, sem bake. |
 
 **Sem bake:** arraste o sol, acenda uma luz, derrube uma parede: sombras, reflexos e luz global se atualizam no
 mesmo quadro.
 
 `Editor visual` `Scripts Lua` `Script visual` `Materiais por nós` `Física Jolt` `Veículos` `Ragdoll` `Áudio 3D`
-`IA e navegação` `Multijogador` `Mundo aberto` `Multidões` `Cabelo fio a fio` `DLSS 4` `FSR 3` `Exportação de jogos`
+`IA e navegação` `Multijogador` `Mundo aberto` `Multidões` `DLSS 4` `FSR 3` `Exportação de jogos`
 
 <sub>¹ Cena Bistro (Amazon Lumberyard, CC BY 4.0), 1920×1080, preset Médio, RTX 3070 Ti: 16,7 ms por quadro; erro =
 diferença média de luminância contra path tracing de 512 quadros. ² Bistro à noite, luzes de malha. ³ Campo de
