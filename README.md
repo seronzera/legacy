@@ -29,10 +29,11 @@ verdade, com sombra, e o asfalto molhado reflete tudo, traçado raio por raio.
 | <img src="img/ts_joalheria.jpg" alt="Joalheria"> | <img src="img/ts_mobiliario.jpg" alt="Chão molhado refletindo os telões"> |
 | **Vitrines de vidro de verdade** | **O asfalto vira espelho na chuva** |
 
-- **130 telões** e **60 letreiros de neon** acesos
-- **914 postes**, cada um uma luz com sombra
+- **139 telões** e **68 letreiros de neon** acesos
+- **1.600 luzes**: cada poste e cada loja ilumina de verdade, com sombra
+- **70 lojas com interior 3D**: lanchonete, café, farmácia, joalheria, roupas e conveniência, de portas abertas
 - **Chuva de verdade**: poças e reflexos traçados por raios de luz
-- **Trânsito e multidão**: carros, táxis e milhares de pessoas pelas calçadas
+- **Trânsito e multidão**: carros, táxis, ônibus e milhares de pessoas pelas calçadas, que abrem espaço e reagem a um esbarrão
 - **Grátis**, e dá para jogar como visitante, sem criar conta
 
 ---
