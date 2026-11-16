@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dseronn-code/legacy/releases/latest/download/Legacy-Setup.exe"><img src="https://img.shields.io/badge/Baixar_o_Legacy_Launcher-Windows_10_e_11-ff5e7a?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o Legacy Launcher"></a>
+  <a href="https://github.com/seronzera/legacy/releases/latest/download/Legacy-Setup.exe"><img src="https://img.shields.io/badge/Baixar_o_Legacy_Launcher-Windows_10_e_11-ff5e7a?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o Legacy Launcher"></a>
 </p>
 
 <p align="center">
   <a href="https://legacyengine.com.br"><b>legacyengine.com.br</b></a> ·
-  <a href="https://github.com/dseronn-code/legacy/releases">Todas as versões</a> ·
+  <a href="https://github.com/seronzera/legacy/releases">Todas as versões</a> ·
   <a href="https://legacyengine.com.br/termos">Termos de Uso</a> ·
   <a href="https://legacyengine.com.br/privacidade">Privacidade</a>
 </p>
@@ -85,7 +85,7 @@ rochas: G-buffer em 4,1 ms contra 24,7 ms da malha completa, RTX 3070 Ti.</sub>
 - **Sem internet?** O que já está instalado continua jogável offline
 
 <p align="center">
-  <a href="https://github.com/dseronn-code/legacy/releases/latest/download/Legacy-Setup.exe"><img src="https://img.shields.io/badge/Baixar_o_Legacy_Launcher-Grátis-ff5e7a?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o Legacy Launcher"></a>
+  <a href="https://github.com/seronzera/legacy/releases/latest/download/Legacy-Setup.exe"><img src="https://img.shields.io/badge/Baixar_o_Legacy_Launcher-Grátis-ff5e7a?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar o Legacy Launcher"></a>
 </p>
 
 ---
