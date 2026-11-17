@@ -126,6 +126,12 @@ Automáticas. O launcher se atualiza sozinho e, quando um jogo tem versão nova,
 saves e configurações não são tocados.
 </details>
 
+<details><summary><b>Quanto vale o projeto?</b></summary>
+
+Reconstruir o Legacy do zero nos EUA custaria cerca de **US$ 4,27 milhões**: 225 meses de engenharia, ou 11
+engenheiros por quase dois anos. [Veja a conta completa e as fontes](VALOR.md).
+</details>
+
 ---
 
 <p align="center"><sub>© 2026 Legacy · Todos os direitos reservados.<br>
