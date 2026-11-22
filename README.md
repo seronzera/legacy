@@ -34,6 +34,9 @@ verdade, com sombra, e o asfalto molhado reflete tudo, traçado raio por raio.
 - **70 lojas com interior 3D**: lanchonete, café, farmácia, joalheria, roupas e conveniência, de portas abertas
 - **Chuva de verdade**: poças e reflexos traçados por raios de luz
 - **Trânsito e multidão**: carros, táxis, ônibus e milhares de pessoas pelas calçadas, que abrem espaço e reagem a um esbarrão
+- **Cidade viva** *(na próxima atualização)*: cada pessoa na rua tem nome e rotina. Quem você viu de manhã indo trabalhar
+  está no lugar certo à tarde, as lojas têm por dentro os clientes que entraram da rua, e quem conversa com você lembra
+  de você depois
 - **Grátis**, e dá para jogar como visitante, sem criar conta
 
 ---
@@ -63,6 +66,10 @@ teste falha.
 | **Mil luzes, todas com sombra.** Todo objeto que emite luz ilumina a cena de verdade, sem pré-cálculo. | **Geometria densa.** Milhões de triângulos por quadro, com nível de detalhe automático. |
 | <img src="img/eng_editor.jpg" alt="Editor visual"> | <img src="img/eng_mundo.jpg" alt="Oceano e céu físicos"> |
 | **Editor visual.** Monte cenas, scripts e materiais sem sair do motor. | **Oceano, nuvens e céu físicos**, sem bake. |
+
+**População virtualizada.** Cada habitante da cidade é calculado a partir do tempo, sem ficar guardado na memória:
+1 milhão de pessoas cabem em 8 MB e cada uma vive a própria rotina, mesmo longe da câmera. Quem testemunha um crime
+pode ligar para a polícia, conta para os colegas, e lembra do jogador.
 
 **Sem bake:** arraste o sol, acenda uma luz, derrube uma parede: sombras, reflexos e luz global se atualizam no
 mesmo quadro.
