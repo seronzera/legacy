@@ -37,6 +37,12 @@ verdade, com sombra, e o asfalto molhado reflete tudo, traçado raio por raio.
 - **Cidade viva** *(na próxima atualização)*: cada pessoa na rua tem nome e rotina. Quem você viu de manhã indo trabalhar
   está no lugar certo à tarde, as lojas têm por dentro os clientes que entraram da rua, e quem conversa com você lembra
   de você depois
+- **Metrô** *(na próxima atualização)*: desça pelas entradas com globo verde, espere na plataforma da Times Sq-42 St
+  e viaje em pé dentro do vagão até a 49 St
+- **Crime e fuga** *(na próxima atualização)*: testemunhas descrevem sua roupa, câmeras gravam, a polícia se protege
+  atrás dos carros, cerca pelos lados e chega de helicóptero
+- **Neve e replay** *(na próxima atualização)*: pegadas e rastros de pneu na neve, e os últimos 15 segundos para rever
+  de qualquer ângulo no modo foto
 - **Grátis**, e dá para jogar como visitante, sem criar conta
 
 ---
