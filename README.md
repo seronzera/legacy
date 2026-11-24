@@ -45,6 +45,8 @@ verdade, com sombra, e o asfalto molhado reflete tudo, traçado raio por raio.
   de qualquer ângulo no modo foto
 - **Batidas e tiroteios** *(na próxima atualização)*: a lataria amassa onde bateu e puxa a direção; armado, você mira
   com o corpo inteiro, e a polícia mira em você
+- **Trânsito e destruição** *(na próxima atualização)*: carros ultrapassam e fazem a curva nos cruzamentos; o que quebra
+  se parte em pedaços de verdade
 - **Rostos que falam** *(na próxima atualização)*: emoções, rugas de expressão, boca que acompanha a voz e olhos que
   olham para você
 - **Grátis**, e dá para jogar como visitante, sem criar conta
@@ -92,6 +94,7 @@ mesmo quadro.
 `IA e navegação` `Multijogador` `Mundo aberto` `Multidões` `DLSS 4` `FSR 3` `Exportação de jogos`
 `Motion matching` `Captura facial` `Rosto escaneado` `Lataria que amassa` `Água com empuxo` `Terreno com cavernas`
 `Cidade procedural` `FBX e OBJ` `Loja de assets`
+`Destruição em pedaços` `Tecido` `Níveis transmitidos`
 
 <sub>¹ Cena Bistro (Amazon Lumberyard, CC BY 4.0), 1920×1080, preset Médio, RTX 3070 Ti: 16,7 ms por quadro; erro =
 diferença média de luminância contra path tracing de 512 quadros. ² Bistro à noite, luzes de malha. ³ Campo de
@@ -151,7 +154,7 @@ saves e configurações não são tocados.
 
 <details><summary><b>Quanto vale o projeto?</b></summary>
 
-Reconstruir o Legacy do zero nos EUA custaria cerca de **US$ 5,45 milhões**: 286 meses de engenharia, ou 13
+Reconstruir o Legacy do zero nos EUA custaria cerca de **US$ 5,59 milhões**: 294 meses de engenharia, ou 13
 engenheiros por quase dois anos. [Veja a conta completa e as fontes](VALOR.md).
 </details>
 
