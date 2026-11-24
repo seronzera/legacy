@@ -160,5 +160,5 @@ engenheiros por quase dois anos. [Veja a conta completa e as fontes](VALOR.md).
 
 ---
 
-<p align="center"><sub>© 2026 Legacy · Todos os direitos reservados.<br>
+<p align="center"><sub>© 2026 Legacy Engine · Todos os direitos reservados.<br>
 Este repositório distribui apenas os instaladores oficiais. O código-fonte não é público.</sub></p>
