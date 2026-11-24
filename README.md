@@ -43,6 +43,10 @@ verdade, com sombra, e o asfalto molhado reflete tudo, traçado raio por raio.
   atrás dos carros, cerca pelos lados e chega de helicóptero
 - **Neve e replay** *(na próxima atualização)*: pegadas e rastros de pneu na neve, e os últimos 15 segundos para rever
   de qualquer ângulo no modo foto
+- **Batidas e tiroteios** *(na próxima atualização)*: a lataria amassa onde bateu e puxa a direção; armado, você mira
+  com o corpo inteiro, e a polícia mira em você
+- **Rostos que falam** *(na próxima atualização)*: emoções, rugas de expressão, boca que acompanha a voz e olhos que
+  olham para você
 - **Grátis**, e dá para jogar como visitante, sem criar conta
 
 ---
@@ -77,11 +81,17 @@ teste falha.
 1 milhão de pessoas cabem em 8 MB e cada uma vive a própria rotina, mesmo longe da câmera. Quem testemunha um crime
 pode ligar para a polícia, conta para os colegas, e lembra do jogador.
 
+**Personagens com captura.** Rostos com 34 unidades de expressão e rugas que surgem onde a pele vinca; captura facial
+a partir de um vídeo de celular; rosto escaneado registrado no corpo (forma e cor da pessoa, com as expressões
+valendo); ações de captura de movimento de vários esqueletos no mesmo personagem; IK de corpo inteiro.
+
 **Sem bake:** arraste o sol, acenda uma luz, derrube uma parede: sombras, reflexos e luz global se atualizam no
 mesmo quadro.
 
 `Editor visual` `Scripts Lua` `Script visual` `Materiais por nós` `Física Jolt` `Veículos` `Ragdoll` `Áudio 3D`
 `IA e navegação` `Multijogador` `Mundo aberto` `Multidões` `DLSS 4` `FSR 3` `Exportação de jogos`
+`Motion matching` `Captura facial` `Rosto escaneado` `Lataria que amassa` `Água com empuxo` `Terreno com cavernas`
+`Cidade procedural` `FBX e OBJ` `Loja de assets`
 
 <sub>¹ Cena Bistro (Amazon Lumberyard, CC BY 4.0), 1920×1080, preset Médio, RTX 3070 Ti: 16,7 ms por quadro; erro =
 diferença média de luminância contra path tracing de 512 quadros. ² Bistro à noite, luzes de malha. ³ Campo de
