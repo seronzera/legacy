@@ -151,7 +151,7 @@ saves e configurações não são tocados.
 
 <details><summary><b>Quanto vale o projeto?</b></summary>
 
-Reconstruir o Legacy do zero nos EUA custaria cerca de **US$ 4,27 milhões**: 225 meses de engenharia, ou 11
+Reconstruir o Legacy do zero nos EUA custaria cerca de **US$ 5,45 milhões**: 286 meses de engenharia, ou 13
 engenheiros por quase dois anos. [Veja a conta completa e as fontes](VALOR.md).
 </details>
 
